@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="calculator">
-      <input type="text" value={result} disabled/>
+      <input type="text" value={result} disabled />
       <div className="buttons">
         <button className="operator" onClick={clear}>
           AC
