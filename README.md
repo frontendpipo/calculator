@@ -1,8 +1,8 @@
 ![Preview](/src/assets/preview.png)
 
-# Calculator using React, Tailwind + Vite
+# Calculator using TypeScript, React, Tailwind + Vite
 
-Fully functional calculator using ReactJS, Tailwind CSS and Vite.
+A simple but fully functional calculator using TypeScript, ReactJS, Tailwind CSS and Vite.
 
 ## Try it yourself
 
